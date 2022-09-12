@@ -137,7 +137,7 @@
                         <phase>install</phase>
                         <configuration>
                             <sourcepath>src/main/java</sourcepath>
-                            <outputDirectory>D:\profile-connect-lansa\javadoc1</outputDirectory>
+                            <outputDirectory>Docs/JavaDoc</outputDirectory>
                         </configuration>
                     </execution>
                 </executions>
