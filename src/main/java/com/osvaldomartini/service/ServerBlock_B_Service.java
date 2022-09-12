@@ -8,13 +8,16 @@ import org.springframework.stereotype.Service;
 @Service
 @Profile("Block_B")
 public class ServerBlock_B_Service implements ConnectionService {
-
-    private final Logger logger = LoggerFactory.getLogger(this.getClass());
+    /**
+     * A bean representing an entry Server B, it Simulates a Success Connection for Machine/PC/Network Connection
+     *
+     * @author Osvaldo Martini Oversion 1.0
+     */
+    private static final Logger logger = LoggerFactory.getLogger(ServerBlock_B_Service.class);
 
     @Override
     public String checkConnection() {
         logger.info("Server Block A Connected!");
         return "Server Block B Connected!";
     }
-
 }

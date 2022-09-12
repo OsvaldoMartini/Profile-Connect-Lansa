@@ -13,7 +13,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 @RunWith(SpringRunner.class)
 @SpringBootTest
 @ActiveProfiles("Block_A")
-public class LancaHealthCheck_Profile_Test {
+public class Lanca_Health_Check_Profile_A_Test {
 
     @Autowired
     ConnectionService connectionService;

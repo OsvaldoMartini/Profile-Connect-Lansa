@@ -8,8 +8,7 @@ import org.springframework.boot.test.system.OutputCaptureRule;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-public class LancaHealthCheck_Test {
-
+public class Lanca_Health_Check_All_Profiles_Test {
     @Rule
     public OutputCaptureRule outputCapture = new OutputCaptureRule();
 
