@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.osvaldomartini.service","l":"ConnectionService"},{"p":"com.osvaldomartini","l":"LancaHealthCheck"},{"p":"com.osvaldomartini.service","l":"ServerBlock_A_Service"},{"p":"com.osvaldomartini.service","l":"ServerBlock_B_Service"},{"p":"com.osvaldomartini.service","l":"ServerBlock_C_Service"}]
